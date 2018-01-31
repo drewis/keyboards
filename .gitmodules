@@ -1,0 +1,9 @@
+[submodule "atreus"]
+	path = atreus
+	url = https://github.com/technomancy/atreus
+[submodule "Ergodox"]
+	path = Ergodox
+	url = https://github.com/Ergodox-IO/Ergodox
+[submodule "atreus62"]
+	path = atreus62
+	url = https://github.com/profet23/atreus62
